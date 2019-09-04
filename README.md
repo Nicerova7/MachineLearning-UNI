@@ -3,3 +3,5 @@
 ### Universidad Nacional de Ingeniería, Facultad de Ciencias
 
 Clase CC002
+
+Ubuntu18
